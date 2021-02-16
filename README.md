@@ -48,3 +48,4 @@ Los datos brutos provienen de la página de datos de [Berkeley Earth](http://ber
 ¿Cómo cambian las concentraciones de dióxido de carbono estacionalmente?<br> 
 ¿Qué crees que causa este ciclo estacional?<br> 
 ¿Cuándo superarán los niveles de dióxido de carbono las 450 ppm partes por millón?<br></i>
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
