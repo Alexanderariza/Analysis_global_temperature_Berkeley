@@ -43,8 +43,8 @@ Otros archivos incluyen:
 ## Referencia
 Los datos brutos provienen de la página de datos de [Berkeley Earth](http://berkeleyearth.org/data/)
 ## Preguntas a resolver:
-<i>¿Cómo han cambiado los niveles de dióxido de carbono atmosférico en los últimos sesenta años?<br> 
-¿Cómo cambian las concentraciones de dióxido de carbono estacionalmente?<br> 
-¿Qué crees que causa este ciclo estacional?<br> 
-¿Cuándo superarán los niveles de dióxido de carbono las 450 ppm partes por millón?<br></i>
+<i>¿Cómo han cambiado los niveles de Temperatura en los últimos 100 años?<br> 
+¿Cómo cambian las distribuciones medias de Temperatura?<br> 
+¿Qué crees que causa este incremento progresivo?<br> 
+¿Que paises superarán los valores medios de incremento de temperatura en ºC?<br></i>
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
