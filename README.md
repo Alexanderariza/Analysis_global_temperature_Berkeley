@@ -7,11 +7,13 @@
 ***
 
 ## Cambio climático: Análisis de niveles de CO2 en la atmósfera
-En este cuaderno vamos a explorar parte del contenido de la unidad:
-<U>II. Integración de información para explicar relaciones causa y efecto.</U><br>
-<U>III.Procesamiento de datos en la nube para el análisis de desastres.</U><br>
-<U>VI.Análisis de Series Temporales de Datos en procesos relacionados con la biosfera.</U><br>
+En este cuaderno vamos a explorar parte del contenido de la unidad:<br>
+<ul>
+<il>II. Integración de información para explicar relaciones causa y efecto.</U><br>
+<il>III.Procesamiento de datos en la nube para el análisis de desastres.</U><br>
+<il>VI.Análisis de Series Temporales de Datos en procesos relacionados con la biosfera.</U><br>
 Mediante el análisis de los cambios en las temperaturas medias globales, así como el aumento de las concentraciones de CO2 en la atmósfera.
+</ul>
 
 ## ¿Como funciona?
 1. Puede [descargar](Analysis_of_CO2_levels_in_the_atmosphere.ipynb) el cuaderno de Jupyter Notebook y utilizar los recursos de computación de su PC. 
