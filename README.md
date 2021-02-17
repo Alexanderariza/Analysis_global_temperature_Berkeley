@@ -3,7 +3,7 @@
 
 # Técnicas y Aplicaciones de Teledetección: Cambio Climático-Riesgos y Desastres<br>
 ***
-## Cambio climático: Análisis de niveles de CO2 en la atmósfera
+## Cambio climático: Análisis de la temperatura global
 En este cuaderno vamos a explorar parte del contenido de la unidad:<br>
 <ul>
 <il> II. Integración de información para explicar relaciones causa y efecto.</li><br>
