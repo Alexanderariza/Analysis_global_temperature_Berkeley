@@ -19,7 +19,7 @@ Mediante el análisis de los cambios en las temperaturas medias globales, así c
 Par esta práctica, trabajaremos con una compilación más reciente elaborada por **Berkeley Earth** , afiliado al Laboratorio Nacional Lawrence Berkeley. El estudio de temperatura de la superficie terrestre de Berkeley combina 1.600 millones de informes de temperatura de 16 archivos preexistentes. Está muy bien empaquetado y permite dividirlo en subconjuntos interesantes (por ejemplo, por país). Publican los datos de origen y el código de las transformaciones que aplicaron. También utilizan métodos que permiten incluir observaciones meteorológicas de series de tiempo más cortas, lo que significa que se deben desechar menos observaciones.
 
 ## Datos de temperatura de la superficie terrestre
-###Explorando las temperaturas globales desde 1750:
+### Explorando las temperaturas globales desde 1750:
 Existe una variedad de organizaciones que recopilan datos de tendencias climáticas. Los tres conjuntos de datos de temperatura terrestre y oceánica más citados son MLOST de NOAA, GISTEMP de NASA y HadCrut del Reino Unido.
 ## Contenido
 Dentro del conjunto de datos que veremos están:
