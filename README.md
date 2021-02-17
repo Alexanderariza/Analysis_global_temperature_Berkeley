@@ -1,20 +1,14 @@
 # Analysis_global_temperature_Berkley
-
 <p><center> <img src="https://github.com/Alexanderariza/Analysis_nivel_CO2_Atm/blob/main/Img/logo_heat.png" width="1000"/> </p></center>
-
 # Técnicas y Aplicaciones de Teledetección: Cambio Climático-Riesgos y Desastres
-
 ***
-
 ## Cambio climático: Análisis de niveles de CO2 en la atmósfera
 En este cuaderno vamos a explorar parte del contenido de la unidad:<br>
 <ul>
 <il> II. Integración de información para explicar relaciones causa y efecto.</li><br>
 <il> III. Procesamiento de datos en la nube para el análisis de desastres.</li><br>
-<il> VI. Análisis de Series Temporales de Datos en procesos relacionados con la biosfera.</li><br>
+<il> VI. Análisis de Series Temporales de Datos en procesos relacionados con la biosfera.</li><br></ul>
 Mediante el análisis de los cambios en las temperaturas medias globales, así como el aumento de las concentraciones de CO2 en la atmósfera.
-</ul>
-
 ## ¿Como funciona?
 1. Puede [descargar](Analysis_of_CO2_levels_in_the_atmosphere.ipynb) el cuaderno de Jupyter Notebook y utilizar los recursos de computación de su PC. 
 2. Otra opción alternativa, es el de [**Google Colab**]( https://colab.research.google.com). Como entorno de computación en la nube para cuadernos de Jupyter, la cual aprovecha los recursos técnicos externos, permitiendo que esta herramienta se pueda aplicar en dispositivos con una potencia de computo más limitada, incluidos dispositivos móviles como teléfonos y tabletas, en áreas con escaso ancho de banda. Para ello puede acceder a esta versión directamente haciendo clic en el icono de abajo.
@@ -27,7 +21,6 @@ Par esta práctica, trabajaremos con una compilación más reciente elaborada po
 ## Datos de temperatura de la superficie terrestre
 ###Explorando las temperaturas globales desde 1750:
 Existe una variedad de organizaciones que recopilan datos de tendencias climáticas. Los tres conjuntos de datos de temperatura terrestre y oceánica más citados son MLOST de NOAA, GISTEMP de NASA y HadCrut del Reino Unido.
-
 ## Contenido
 Dentro del conjunto de datos que veremos están:
 Temperaturas globales terrestres y oceánicas y terrestres ( GlobalTemperatures.csv ):
@@ -45,10 +38,8 @@ Otros archivos incluyen:
 •	Temperatura promedio global de la tierra por estado ( GlobalLandTemperaturesByState.csv )<br>
 •	Temperaturas globales de la tierra por ciudad principal ( GlobalLandTemperaturesByMajorCity.csv )<br>
 •	Temperaturas globales de la tierra por ciudad ( GlobalLandTemperaturesByCity.csv )<br>
-
 ## Referencia
 Los datos brutos provienen de la página de datos de [Berkeley Earth](http://berkeleyearth.org/data/)
-
 ## Preguntas a resolver:
 <i>¿Cómo han cambiado los niveles de dióxido de carbono atmosférico en los últimos sesenta años?<br> 
 ¿Cómo cambian las concentraciones de dióxido de carbono estacionalmente?<br> 
