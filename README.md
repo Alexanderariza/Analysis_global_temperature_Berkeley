@@ -10,6 +10,7 @@ En este cuaderno vamos a explorar parte del contenido de la unidad:<br>
 <il> III. Procesamiento de datos en la nube para el análisis de desastres.</li><br>
 <il> VI. Análisis de Series Temporales de Datos en procesos relacionados con la biosfera.</li><br></ul>
 Mediante el análisis de los cambios en las temperaturas medias globales, así como el aumento de las concentraciones de CO2 en la atmósfera.<br>
+
 ## ¿Como funciona?
 1. Puede [descargar](Analysis_of_CO2_levels_in_the_atmosphere.ipynb) el cuaderno de Jupyter Notebook y utilizar los recursos de computación de su PC. 
 2. Otra opción alternativa, es el de [**Google Colab**]( https://colab.research.google.com). Como entorno de computación en la nube para cuadernos de Jupyter, la cual aprovecha los recursos técnicos externos, permitiendo que esta herramienta se pueda aplicar en dispositivos con una potencia de computo más limitada, incluidos dispositivos móviles como teléfonos y tabletas, en áreas con escaso ancho de banda. Para ello puede acceder a esta versión directamente haciendo clic en el icono de abajo.
