@@ -1,9 +1,10 @@
-# Análisis de la temperatura global (Base de datos de Berkley)
+# Análisis de la temperatura global 
 <p><center> <img src="https://github.com/Alexanderariza/Analysis_nivel_CO2_Atm/blob/main/Img/logo_heat.png" width="1000"/> </p></center>
 
 # Técnicas y Aplicaciones de Teledetección: Cambio Climático-Riesgos y Desastres<br>
 ***
-## Cambio climático: Análisis de la temperatura global
+## Cambio climático: Análisis de la temperatura global (Base de datos de Berkley)
+<p><center> <img src="http://berkeleyearth.org/wp-content/uploads/2021/01/2020_Global_Map-1024x571.png" width="1000"/> </p></center>
 En este cuaderno vamos a explorar parte del contenido de la unidad:<br>
 <ul>
 <il> II. Integración de información para explicar relaciones causa y efecto.</li><br>
