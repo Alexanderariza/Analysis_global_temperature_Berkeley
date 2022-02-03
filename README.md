@@ -4,6 +4,8 @@
 # Técnicas y Aplicaciones de Teledetección: Cambio Climático-Riesgos y Desastres<br>
 ***
 ## Cambio climático: Análisis de la temperatura global (Base de datos de Berkley)
+
+<p>Este material se basa en el trabajo apoyado por el Centro Nacional de Investigación Atmosférica, una importante instalación patrocinada por la National Science Foundation y gestionada por la University Corporation for Atmospheric Research. Las opiniones, resultados y conclusiones o recomendaciones expresadas en este material no reflejan necesariamente la opinión de la National Science Foundation.</p>
 <p><center> <img src="http://berkeleyearth.org/wp-content/uploads/2021/01/2020_Global_Map-1024x571.png" width="600"/> </p></center>
 En este cuaderno vamos a explorar parte del contenido de la unidad:<br>
 <ul>
